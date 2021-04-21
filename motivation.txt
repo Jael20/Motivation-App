@@ -1,0 +1,27 @@
+Welcome to the Motivation App by JaelApps.
+
+When the application starts, it launches the MainActivity2welcome page
+where the logo of the company is displayed along with a textview which 
+states that the user should;
+Click the Green button for some post-covid inspiring and cheering up
+messages
+Click the Red button to speak to councellor / psycologist or get 
+a prayer from a clergyman.
+
+It also contains the two buttons one colour green for those interested 
+in the messages and colour red for those who want to book an appoinment
+
+It also contains a link to Admin page(), where the user will be prompted
+to login before accesing the page once accepted the user will view the 
+Name and email of the client and will follow up.
+
+Once the Green button is clicked. A page for displaying inspirational 
+images that contain the message will come up. It can be navigated forward 
+or backword.
+
+Once the Red button is clicked. A page for getting user details will be 
+dispayed. Such as "Pls enter your Name and email  we will get back to you."
+
+The admin page exists to be able to view and follow up on those who 
+wish to speak to a counsellor, psychologist or clergyman. Sign in. list view
+
